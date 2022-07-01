@@ -15,7 +15,7 @@ const App = () => {
         <Route exact path='/Values' element={<Values />}/>
 
       </Routes>
-      
+      <Footer />
       </BrowserRouter>
       {/* <Values /> */}
     </div>

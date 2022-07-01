@@ -1,0 +1,47 @@
+.abt3row{
+margin-top: -310px;
+}
+/* footer css */
+/* Footer Css */
+.fotrbckclr {
+    background-color: rgb(8, 8, 61);
+    background-size: cover;
+    width: 100%;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .footerlink {
+    margin-left: 40px;
+  }
+  .footercontact {
+    margin-left: 40px;
+  }
+  li {
+    list-style-type: none;
+  }
+  .bi {
+    font-size: 20px;
+    margin: 20px;
+    color: gainsboro;
+    background-color: black;
+  }
+  .bi:hover {
+    color: blueviolet;
+  }
+  .fas {
+    margin: 10px;
+    color: blueviolet;
+    font-size: 18px;
+  }
+  .ftrspn {
+    margin-left: 40px;
+  }
+  @media screen and (max-width: 428px) {
+    .fotrli {
+      margin-left: -35px;
+    }
+  }
+  
+  

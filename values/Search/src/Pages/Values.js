@@ -20,8 +20,8 @@ const Values = () => {
 
  
   return (
-    <div className="mt-5">
-      <center >
+    <div>
+      <center>
         <form onSubmit={(e) => onSubmit(e)}>
           <label>Enter a value</label>
           <input
@@ -33,7 +33,7 @@ const Values = () => {
             palceholder="Enter a value"
           />
            <p className="lerr">{data.search}</p>
-          <button className="btn bg-primary text-white">Search</button>
+          <button>Search</button>
           
         </form>
         <br />
